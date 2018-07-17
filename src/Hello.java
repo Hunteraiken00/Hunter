@@ -2,7 +2,8 @@
 public class Hello {
 	public static void main(String args[]) {
 		
-		System.out.println("Test Number Two");
+		System.out.println("Different");
+		System.out.println("Second Line in test")
 
 	}
 }
